@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryn18" alt="aryn18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aprborn" target="blank"><img src="https://img.shields.io/twitter/follow/aprborn?logo=twitter&style=for-the-badge" alt="aprborn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryn_18" target="blank"><img src="https://img.shields.io/twitter/follow/aryn_18?logo=twitter&style=for-the-badge" alt="aryn_18" /></a> </p>
 
 - 🔭 I’m currently working on **Problem Solving**
 
@@ -28,10 +28,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aryangupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryangupta" height="30" width="40" /></a>
-<a href="https://twitter.com/aprborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aprborn" height="30" width="40" /></a>
+<a href="https://twitter.com/aryn_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryn_18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-gupta-323579227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-gupta-323579227/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009782386370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009782386370" height="30" width="40" /></a>
-<a href="https://instagram.com/oye_.aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oye_.aryan" height="30" width="40" /></a>
+<a href="https://instagram.com/aryn._18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryn._18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aryan_gupta_cs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryan_gupta_cs19" height="30" width="40" /></a>
 </p>
 
