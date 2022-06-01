@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="left">Hi 👋, My name is Aryan Gupta</h1>
+<h3 align="left">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryn18&label=Profile%20views&color=0e75b6&style=flat" alt="aryn18" /> </p>
 
